@@ -1,2 +1,2 @@
 # ProjectOxford-Unity
-Basic Functionality for Project Oxford and Unity
+In development - Basic Functionality for Project Oxford and Unity
